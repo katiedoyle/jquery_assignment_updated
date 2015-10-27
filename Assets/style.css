@@ -1,0 +1,76 @@
+h1 {
+	font-family: Tahoma, sans-serif;
+	text-align: center;
+	font-weight: normal;
+}
+
+nav {
+	font-family: Tahoma, sans-serif;
+	font-size: 24px;
+}
+
+ul {
+	padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.mainmenu {
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	margin: 20px;
+}
+
+.dropmedown {
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	margin: 20px;
+}
+
+.dropdown {
+	border: solid;
+	display: none;
+	position: fixed;
+	padding: 1%;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover{
+	color: gray;
+}
+
+#animate {
+	font-family: Tahoma, sans-serif;
+	font-size: 24px;
+}
+
+#byebye {
+	font-family: Tahoma, sans-serif;
+	font-size: 24px;
+}
+
+#fademein {
+	font-family: Tahoma, sans-serif;
+	font-size: 24px;
+}
+
+#slow {
+	font-family: Tahoma, sans-serif;
+	font-size: 24px;
+}
+
+#up {
+	font-family: Tahoma, sans-serif;
+	font-size: 24px;
+}
+
+#lastline {
+	font-family: Tahoma, sans-serif;
+	font-size: 24px;
+}
